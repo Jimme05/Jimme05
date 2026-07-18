@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Wissarut!%20%F0%9F%91%8B&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Wisaroot!%20%F0%9F%91%8B&fontSize=50" />
 </div>
 
 ### 👨‍💻 About Me
